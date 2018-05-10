@@ -80,6 +80,3 @@ The corresponding resovers
 ```
 
 ## GraphQL Clients
-
-
-
